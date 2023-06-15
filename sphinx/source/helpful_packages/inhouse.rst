@@ -58,7 +58,7 @@ DISCO
 aqme
 ----
 
-(Insert short description here)
+Automated Quantum Mechanical Environments (AQME) offers transparent and reproducible workflows available for Jupyter Notebooks and command lines, including: 1) RDKit- and CREST-based conformer generation, 2) QM input file creation, 3) post-processing of QM output files, 4) generation of xTB, DFT and RDKit descriptors. Access the `GitHub <https://github.com/jvalegre/aqme>`_.
 
 
 Slurm Job Tracking
